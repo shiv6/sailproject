@@ -1,2 +1,3 @@
 # sailproject
-to control and manage sail project
+Currently working on graphical prototype
+further information will be in the official documention.
